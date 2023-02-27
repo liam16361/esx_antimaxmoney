@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-author 'Trase'
+author 'Liam163611'
 description 'A fivem script (ESX) to stop modders from having to much money.'
 lua54 'yes'
 
